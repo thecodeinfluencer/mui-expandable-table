@@ -1,0 +1,32 @@
+{
+  "name": "mui-expandable-table",
+  "version": "0.1.0",
+  "description": "A custom expandable table for @mui/material Table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodeinfluencer/mui-expandable-table.git"
+  },
+  "keywords": [
+    "mui",
+    "frontend",
+    "html",
+    "css",
+    "react",
+    "nextjs"
+  ],
+  "author": "thecodeinfluencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecodeinfluencer/mui-expandable-table/issues"
+  },
+  "homepage": "https://github.com/thecodeinfluencer/mui-expandable-table#readme",
+  "dependencies": {
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.18",
+    "react": "^18.3.1"
+  }
+}
